@@ -38,14 +38,14 @@ THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content
 
 
 # # Bot configuration
-# API_ID = int(os.environ.get("API_ID", "21157244"))
-# API_HASH = os.environ.get("API_HASH", "4981c2699bd91c7db836ec8f77e5b0f0")
+# API_ID = int(os.environ.get("API_ID", "39373745"))
+# API_HASH = os.environ.get("API_HASH", "62e8f30aac6df8282ae6ca090ac180c7")
 # BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-# BOT_USERNAME = os.environ.get("BOT_USERNAME", "Gajjubhaikaext_bot")
-# OWNER_ID = int(os.environ.get("OWNER_ID", "1783306092"))
+# BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Dopekidex_bot")
+# OWNER_ID = int(os.environ.get("OWNER_ID", "8772029388"))
 # SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1783306092").split()))
-# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002195125473"))
+# CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003893095051"))
 # MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://wadiro6523:08AwfhhKRdQaS1i6@cluster0.krzxuop.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002195125473"))
+# PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003893095051"))
 # THUMB_URL = os.environ.get("THUMB_URL", "https://i.fbcd.co/products/original/ug-circle-logo-design-2-e84695ca2ab9a697d2b2d7c928b0bf5f12bf18e076da241815e0372c8d617915.jpg")
 
